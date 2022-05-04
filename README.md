@@ -1,4 +1,4 @@
-# Teste_Einstein
+# Einstein Test
 
 In this test I need to create a classifier using a given dataset. I do it on this [notebook](https://github.com/ViniciusCastillo/Test_Einstein/blob/main/notebooks/Classification_Test.ipynb). 
 
