@@ -11,3 +11,7 @@ The best result was an 83% of the ROC AUC using XGBoost and I create a pipeline 
 However, the results against the test set are not very better than the Dummy Classifier. The only advantage is the better results when we see the results open by target options.
 
 I think is needed to understand better the problem with the client and try to find other features and better models.
+
+notebook[https://github.com/ViniciusCastillo/Test_Einstein/blob/main/notebooks/Classification_Test.ipynb]
+
+model[https://github.com/ViniciusCastillo/Test_Einstein/tree/main/model]
